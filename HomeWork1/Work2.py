@@ -1,3 +1,3 @@
-sum = int(input("Введите число "))
+sum = int(input("Введите любое число  "))
 print (sum // 6, sum * 4 // 6, sum // 6)
 print (sum // 3 // 2, sum // 3 * 2, sum // 3 // 2)
